@@ -1,3 +1,5 @@
+_**The [SigSRF Github page](https://github.com/signalogic/SigSRF_SDK) has the current version of c66x based transcoding, image processing (OpenCV), and deep learning demos**_.
+
 # HPC_SDK
 This SDK (Software Development Kit) folder contains:
 
