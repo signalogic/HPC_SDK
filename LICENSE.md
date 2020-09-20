@@ -29,7 +29,7 @@ The Github SigSRF software also includes binary codes for shared object librarie
   <li>streamlib (stream group library)</li>
 </ol>
 
-The above listed binary shared objects are limited in capacity or other manner of restricted functionality.
+The above listed binary shared object libraries are limited in capacity or other manner of restricted functionality.
 
 ### 1.2 License
 
