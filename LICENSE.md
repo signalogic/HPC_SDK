@@ -16,8 +16,8 @@ SigSRF software (the "SigSRF Software") has been developed and commercialized by
 
 <ol type="a">
 
-  <li>Media + packet real-time threads, including API usage for packet queue receive/send, jitter buffer add/retrieve, codec decode/encode, stream group processing, and packet diagnostics</li>
-  <li>Reference applications, including API usage for session create/modify/delete, packet push/pull, and event and packet logging. Also includes static and dynamic session creation, RTP stream auto-detect, packet pcap and UDP input</li>
+  <li>Media + packet real-time threads, including SigSRF API usage for packet queue receive/send, jitter buffer add/retrieve, codec decode/encode, stream group processing, and packet diagnostics</li>
+  <li>Reference applications, including SigSRF API usage for session create/modify/delete, packet push/pull, and event and packet logging. Also included are static and dynamic session creation, RTP stream auto-detect, packet pcap and UDP input</li>
   <li>Stream group output audio processing, speech recognition, and user-defined signal processing</li>
 </ol>
 
