@@ -12,9 +12,7 @@ ENTITY. "Licensee" means you, an individual, or the entity on whose behalf you a
 
 ### 1.1 Software Scope and Definitions
 
-SigSRF software ("SigSRF Software") has been developed by Signalogic since the 1990s as a series of packet, media, and signal processing libraries, drivers, and 
-reference applications, and is deployed worldwide by analytics, telecom, and gov/mil customers of Signalogic. A subset of the SigSRF software is available on the 
-Github SigSRF repository (the "Github SigSRF Software") as a subset of SigSRF Software intended for demonstration ("demo"), evaluation, Research & Development ("R&D"), test and measurement, and limited commercial purposes. 
+SigSRF software (the "SigSRF Software") has been developed and commercialized by Signalogic since the 1990s as a series of packet, media, and signal processing libraries, drivers, and reference applications, and is currently deployed worldwide by analytics, telecom, and gov/mil customers of Signalogic. A subset of the SigSRF Software is available on the Github SigSRF repository intended for demonstration ("demo"), evaluation, Research & Development ("R&D"), test and measurement, and limited commercial purposes (the "Github SigSRF Software").
 
 ### 1.2 License
 
@@ -25,8 +23,7 @@ without limitation in source code or object code form); and (d) reproduce copies
 and Licensee shall not, exercise the License for an Excluded Purpose.
 
 For purposes of this Agreement, "Excluded Purpose" means making available any (i) server based platform, including but not limited to bare-metal, container, and VM, 
-or (ii) online service, including but not limited to software-as-a-service, platform-as-a-service, and infrastructure-as-a-service, that competes with Signalogic products 
-or services based on SigSRF Software functionality.
+or (ii) online service, including but not limited to software-as-a-service, platform-as-a-service, and infrastructure-as-a-service, that competes with Signalogic products or services based on SigSRF Software functionality.
 
 ### 1.3 Conditions
 
