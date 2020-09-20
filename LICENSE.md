@@ -14,13 +14,12 @@ ENTITY. "Licensee" means you, an individual, or the entity on whose behalf you a
 
 SigSRF software ("SigSRF Software") has been developed by Signalogic since the 1990s as a series of packet, media, and signal processing libraries, drivers, and 
 reference applications, and is deployed worldwide by analytics, telecom, and gov/mil customers of Signalogic. A subset of the SigSRF software is available on the 
-Github SigSRF repository (the "Github SigSRF Software") as a subset of SigSRF Software intended for demonstration (demo), evaluation, R&D (Research & Development), 
-test and measurement, and limited commercial purposes. 
+Github SigSRF repository (the "Github SigSRF Software") as a subset of SigSRF Software intended for demonstration ("demo"), evaluation, Research & Development ("R&D"), test and measurement, and limited commercial purposes. 
 
 ### 1.2 License
 
 Subject to the terms and conditions of this Agreement, Signalogic hereby grants to Licensee a non-exclusive, royalty-free, worldwide, non-transferable, 
-non-sublicenseable license during the term of this Agreement to: (a) use the Github SigSRF Software for evaluation, measurement, R&D, 
+non-sublicenseable license during the term of this Agreement to: (a) use the Github SigSRF Software for demo, evaluation, R&D, test and measurement,
 and limited commercial purposes; (b) prepare modifications and derivative works of the Github SigSRF Software; (c) distribute the Github SigSRF Software (including 
 without limitation in source code or object code form); and (d) reproduce copies of the Github SigSRF Software (the “License”). Licensee is not granted the right to, 
 and Licensee shall not, exercise the License for an Excluded Purpose.
