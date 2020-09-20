@@ -47,7 +47,7 @@ AGREE TO THE TERMS OF SUCH LICENSE AGREEMENT.”
 
 Licensee may add its own copyright notices to modifications made by Licensee and may provide additional or different license terms and conditions for use, 
 reproduction, or distribution of Licensee’s modifications. While redistributing the Github SigSRF Software or modifications thereof, Licensee may choose to offer, for 
-a fee or free of charge, support, warranty, indemnity, or other obligations.Licensee, and not Signalogic, will be responsible for any such obligations.
+a fee or free of charge, support, warranty, indemnity, or other obligations. Licensee, and not Signalogic, will be responsible for any such obligations.
 
 ### 1.5 No Sublicensing
 
