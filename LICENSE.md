@@ -24,8 +24,8 @@ and limited commercial purposes; (b) prepare modifications and derivative works 
 without limitation in source code or object code form); and (d) reproduce copies of the Github SigSRF Software (the “License”). Licensee is not granted the right to, 
 and Licensee shall not, exercise the License for an Excluded Purpose.
 
-For purposes of this Agreement, "Excluded Purpose" means making available any (i) server based platform, including but not limited to bare-metal, container, or VM, 
-or (ii) online service, including but not limited to software-as-a-service, platform-as-a-service, infrastructure-as-a-service, that competes with Signalogic products 
+For purposes of this Agreement, "Excluded Purpose" means making available any (i) server based platform, including but not limited to bare-metal, container, and VM, 
+or (ii) online service, including but not limited to software-as-a-service, platform-as-a-service, and infrastructure-as-a-service, that competes with Signalogic products 
 or services based on SigSRF Software functionality.
 
 ### 1.3 Conditions
