@@ -20,7 +20,7 @@ SigSRF software (the "SigSRF Software") has been developed and commercialized by
   <li>Stream group output audio processing, speech recognition, and user-defined signal processing</li>
 </ol>
 
-The Github SigSRF software also includes binary shared object libraries used in the SigSRF Software, including but not limited to:
+The Github SigSRF software also includes binary codes for shared object libraries used in the SigSRF Software, including but not limited to:
 
 <ol type="a">
   <li>pktlib (packet library)</li>
