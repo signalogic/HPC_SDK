@@ -10,7 +10,7 @@ ENTITY. "Licensee" means you, an individual, or the entity on whose behalf you a
 
 ## 1 LICENSE GRANT AND CONDITION
 
-### 1.1 Software Definitions and Scope
+### 1.1 Software Scope and Definitions
 
 SigSRF software ("SigSRF Software") has been developed by Signalogic since the 1990s as a series of packet, media, and signal processing libraries, drivers, and 
 reference applications, and is deployed worldwide by analytics, telecom, and gov/mil customers of Signalogic. A subset of the SigSRF software is available on the 
