@@ -6,7 +6,7 @@ the terms on which Signalogic, Inc. ("Signalogic") makes available Github SigSRF
 "Github SigSRF Software"). BY INSTALLING, DOWNLOADING, ACCESSING, USING OR DISTRIBUTING ANY OF THE GITHUB SIGSRF SOFTWARE, YOU AGREE TO THE TERMS AND CONDITIONS OF 
 THIS AGREEMENT. IF YOU DO NOT AGREE TO SUCH TERMS AND CONDITIONS, YOU MUST NOT USE THE GITHUB SIGSRF SOFTWARE. IF YOU ARE RECEIVING THE GITHUB SIGSRF SOFTWARE ON 
 BEHALF OF A LEGAL ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE THE ACTUAL AUTHORITY TO AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT ON BEHALF OF SUCH 
-ENTITY. “Licensee” means you, an individual, or the entity on whose behalf you are receiving the Github SigSRF Software.
+ENTITY. "Licensee" means you, an individual, or the entity on whose behalf you are receiving the Github SigSRF Software.
 
 ## 1 LICENSE GRANT AND CONDITION
 
@@ -84,7 +84,7 @@ This Agreement will be governed by and interpreted in accordance with the laws o
 Licensee is located within the United States, all disputes arising out of this Agreement are subject to the exclusive jurisdiction of courts located in Dallas County, 
 Texas, USA. If Licensee is located outside of the United States, any dispute, controversy or claim arising out of or relating to this Agreement will be referred to 
 and finally determined by arbitration in accordance with the JAMS International Arbitration Rules. The tribunal will consist of one arbitrator. The place of 
-arbitration will be Dallas, Texas.The language to be used in the arbitral proceedings will be English.Judgment upon the award rendered by the arbitrator may be 
+arbitration will be Dallas, Texas. The language to be used in the arbitral proceedings will be English. Judgment upon the award rendered by the arbitrator may be 
 entered in any court having jurisdiction thereof.
 
 ### 6.2  Assignment
