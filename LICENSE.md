@@ -41,7 +41,7 @@ contained in the Github SigSRF Software, and Licensee must provide the notice be
 </ol>
 
 “This software is made available by Signalogic, Inc., under the terms of the Signalogic Github SigSRF License Agreement, Version 1.0 located at 
-https://github.com/signalogic/SigSRF_SDK/new/master/LICENSE.md. BY INSTALLING, DOWNLOADING, ACCESSING, USING OR DISTRIBUTING ANY OF THE GITHUB SIGSRF SOFTWARE, YOU 
+https://github.com/signalogic/SigSRF_SDK/blob/master/LICENSE.md. BY INSTALLING, DOWNLOADING, ACCESSING, USING OR DISTRIBUTING ANY OF THE GITHUB SIGSRF SOFTWARE, YOU 
 AGREE TO THE TERMS OF SUCH LICENSE AGREEMENT.”
 
 ### 1.4 Licensee Modifications
