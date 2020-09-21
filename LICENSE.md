@@ -1,9 +1,6 @@
 # Github SigSRF License, Version 1.0
 
-This Github SigSRF License Agreement Version 1.0 (the “Agreement”) is a modified form of the the 
-[Confluent Community License Agreement](https://www.confluent.io/confluent-community-license/), and sets forth 
-the terms on which Signalogic, Inc. ("Signalogic") makes available Github SigSRF repository software (the 
-"Github SigSRF Software"). BY INSTALLING, DOWNLOADING, ACCESSING, USING OR DISTRIBUTING ANY OF THE GITHUB SIGSRF SOFTWARE, YOU AGREE TO THE TERMS AND CONDITIONS OF 
+This Github SigSRF License Agreement Version 1.0 (the “Agreement”) is a modified form of the the [Confluent Community License Agreement](https://www.confluent.io/confluent-community-license/), and sets forth the terms on which Signalogic, Inc. ("Signalogic") makes available Github "SigSRF_SDK" repository software (the "Github SigSRF Software"). BY INSTALLING, DOWNLOADING, ACCESSING, USING OR DISTRIBUTING ANY OF THE GITHUB SIGSRF SOFTWARE, YOU AGREE TO THE TERMS AND CONDITIONS OF 
 THIS AGREEMENT. IF YOU DO NOT AGREE TO SUCH TERMS AND CONDITIONS, YOU MUST NOT USE GITHUB SIGSRF SOFTWARE. IF YOU ARE RECEIVING GITHUB SIGSRF SOFTWARE ON 
 BEHALF OF A LEGAL ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE THE ACTUAL AUTHORITY TO AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT ON BEHALF OF SUCH 
 ENTITY. "Licensee" means you, an individual, or the entity on whose behalf you are receiving Github SigSRF Software.
@@ -12,13 +9,15 @@ ENTITY. "Licensee" means you, an individual, or the entity on whose behalf you a
 
 ### 1.1 Software Scope and Definitions
 
-SigSRF software ("SigSRF Software") has been developed and commercialized by Signalogic since the 1990s as a series of packet, media, and signal processing libraries, drivers, and reference applications, and is currently deployed worldwide by analytics, telecom, and gov/mil customers and end-customers of Signalogic. A subset of SigSRF Software is available on the Github SigSRF repository intended for demonstration ("demo"), evaluation, Research & Development ("R&D"), test and measurement, and limited commercial purposes ("Github SigSRF Software"). Github SigSRF Software makes available certain source codes used in the SigSRF Software, including, but not limited to, makefiles and C/C++ source code for:
+SigSRF software has been developed and commercialized by Signalogic since the 1990s as a series of packet, media, and signal processing libraries, drivers, and reference applications, and is currently deployed worldwide by analytics, telecom, and gov/mil customers and end-customers of Signalogic. Github SigSRF Software is a subset of SigSRF Software and is available on the Github SigSRF_SDK repository intended for demonstration ("demo"), evaluation, Research & Development ("R&D"), test and measurement, and limited commercial purposes. Github SigSRF Software makes available certain source codes used in the SigSRF Software, including, but not limited to, makefiles and C/C++ source code for:
 
 <ol type="a">
   <li>Media + packet real-time threads, including SigSRF API usage for packet queue receive/send, jitter buffer add/retrieve, codec decode/encode, stream group processing, and packet diagnostics</li>
   <li>Reference applications, including SigSRF API usage for session create/modify/delete, packet push/pull, and event and packet logging. Also included are static and dynamic session creation, RTP stream auto-detect, packet pcap and UDP input</li>
   <li>Stream group output audio processing, speech recognition, and user-defined signal processing</li>
 </ol>
+
+As a Software Development Kit (SDK), Github SigSRF software includes Makefiles and header files (.h files) needed to build modified reference applications and generate new, user-defined applications.
 
 Github SigSRF software also includes binary codes for shared object libraries used in SigSRF Software, including but not limited to:
 
