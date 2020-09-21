@@ -112,8 +112,3 @@ limitation any condition, of this Agreement is held to be unenforceable, this Ag
 Waiver by Signalogic of a breach of any provision of this Agreement or the failure by Signalogic to exercise any right hereunder will not be construed as a waiver 
 of any subsequent breach of that right or as a waiver of any other right.
 
-```
- example source code
-```
-
-<p style="font-color:orange">this paragraph in orange</p>
