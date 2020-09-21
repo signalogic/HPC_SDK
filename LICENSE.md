@@ -9,7 +9,7 @@ ENTITY. "Licensee" means you, an individual, or the entity on whose behalf you a
 
 ### 1.1 Software Scope and Definitions
 
-SigSRF software has been developed and commercialized by Signalogic since the 1990s as a series of packet, media, and signal processing libraries, drivers, and reference applications, and is currently deployed worldwide by analytics, telecom, and gov/mil customers and end-customers of Signalogic. Github SigSRF Software is a subset of SigSRF Software and is available on the Github SigSRF_SDK repository intended for demonstration ("demo"), evaluation, Research & Development ("R&D"), test and measurement, and limited commercial purposes. Github SigSRF Software makes available certain source codes used in the SigSRF Software, including, but not limited to, makefiles and C/C++ source code for:
+SigSRF software has been developed and commercialized by Signalogic since the 1990s as a series of packet, media, and signal processing libraries, drivers, and reference applications, and is currently deployed worldwide by analytics, telecom, and gov/mil customers and end-customers of Signalogic. Github SigSRF Software is a subset of SigSRF Software and is available on the Github SigSRF_SDK repository intended for demonstration ("demo"), evaluation, Research & Development ("R&D"), test and measurement, and limited commercial purposes. Github SigSRF Software makes available certain source codes used in the SigSRF Software, including, but not limited to, C/C++ source code for:
 
 <ol type="a">
   <li>Media + packet real-time threads, including SigSRF API usage for packet queue receive/send, jitter buffer add/retrieve, codec decode/encode, stream group processing, and packet diagnostics</li>
