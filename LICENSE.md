@@ -4,15 +4,15 @@ This Github SigSRF License Agreement Version 1.0 (the “Agreement”) is a modi
 [Confluent Community License Agreement](https://www.confluent.io/confluent-community-license/), and sets forth 
 the terms on which Signalogic, Inc. ("Signalogic") makes available Github SigSRF repository software (the 
 "Github SigSRF Software"). BY INSTALLING, DOWNLOADING, ACCESSING, USING OR DISTRIBUTING ANY OF THE GITHUB SIGSRF SOFTWARE, YOU AGREE TO THE TERMS AND CONDITIONS OF 
-THIS AGREEMENT. IF YOU DO NOT AGREE TO SUCH TERMS AND CONDITIONS, YOU MUST NOT USE THE GITHUB SIGSRF SOFTWARE. IF YOU ARE RECEIVING THE GITHUB SIGSRF SOFTWARE ON 
+THIS AGREEMENT. IF YOU DO NOT AGREE TO SUCH TERMS AND CONDITIONS, YOU MUST NOT USE GITHUB SIGSRF SOFTWARE. IF YOU ARE RECEIVING GITHUB SIGSRF SOFTWARE ON 
 BEHALF OF A LEGAL ENTITY, YOU REPRESENT AND WARRANT THAT YOU HAVE THE ACTUAL AUTHORITY TO AGREE TO THE TERMS AND CONDITIONS OF THIS AGREEMENT ON BEHALF OF SUCH 
-ENTITY. "Licensee" means you, an individual, or the entity on whose behalf you are receiving the Github SigSRF Software.
+ENTITY. "Licensee" means you, an individual, or the entity on whose behalf you are receiving Github SigSRF Software.
 
 ## 1 LICENSE GRANT AND CONDITIONS
 
 ### 1.1 Software Scope and Definitions
 
-SigSRF software (the "SigSRF Software") has been developed and commercialized by Signalogic since the 1990s as a series of packet, media, and signal processing libraries, drivers, and reference applications, and is currently deployed worldwide by analytics, telecom, and gov/mil customers and end-customers of Signalogic. A subset of the SigSRF Software is available on the Github SigSRF repository intended for demonstration ("demo"), evaluation, Research & Development ("R&D"), test and measurement, and limited commercial purposes (the "Github SigSRF Software"). The Github SigSRF Software makes available certain source codes used in the SigSRF Software, including, but not limited to, makefiles and C/C++ source code for:
+SigSRF software ("SigSRF Software") has been developed and commercialized by Signalogic since the 1990s as a series of packet, media, and signal processing libraries, drivers, and reference applications, and is currently deployed worldwide by analytics, telecom, and gov/mil customers and end-customers of Signalogic. A subset of SigSRF Software is available on the Github SigSRF repository intended for demonstration ("demo"), evaluation, Research & Development ("R&D"), test and measurement, and limited commercial purposes ("Github SigSRF Software"). Github SigSRF Software makes available certain source codes used in the SigSRF Software, including, but not limited to, makefiles and C/C++ source code for:
 
 <ol type="a">
   <li>Media + packet real-time threads, including SigSRF API usage for packet queue receive/send, jitter buffer add/retrieve, codec decode/encode, stream group processing, and packet diagnostics</li>
@@ -20,7 +20,7 @@ SigSRF software (the "SigSRF Software") has been developed and commercialized by
   <li>Stream group output audio processing, speech recognition, and user-defined signal processing</li>
 </ol>
 
-The Github SigSRF software also includes binary codes for shared object libraries used in the SigSRF Software, including but not limited to:
+Github SigSRF software also includes binary codes for shared object libraries used in SigSRF Software, including but not limited to:
 
 <ol type="a">
   <li>pktlib (packet library)</li>
@@ -34,9 +34,9 @@ The above listed binary shared object libraries are limited in capacity or other
 ### 1.2 License
 
 Subject to the terms and conditions of this Agreement, Signalogic hereby grants to Licensee a non-exclusive, royalty-free, worldwide, non-transferable, 
-non-sublicenseable license during the term of this Agreement to: (a) use the Github SigSRF Software for demo, evaluation, R&D, test and measurement,
-and limited commercial purposes; (b) prepare modifications and derivative works of the Github SigSRF Software; (c) distribute the Github SigSRF Software (including 
-without limitation in source code or object code form); and (d) reproduce copies of the Github SigSRF Software (the “License”). Licensee is not granted the right to, 
+non-sublicenseable license during the term of this Agreement to: (a) use Github SigSRF Software for demo, evaluation, R&D, test and measurement,
+and limited commercial purposes; (b) prepare modifications and derivative works of Github SigSRF Software; (c) distribute Github SigSRF Software (including 
+without limitation in source code or object code form); and (d) reproduce copies of Github SigSRF Software (the “License”). Licensee is not granted the right to, 
 and Licensee shall not, exercise the License for an Excluded Purpose.
 
 For purposes of this Agreement, "Excluded Purpose" means making available any (i) server based platform, including but not limited to bare-metal, container, and VM, 
@@ -44,28 +44,28 @@ or (ii) online service, including but not limited to software-as-a-service, plat
 
 ### 1.3 Conditions
 
-In consideration of the License, Licensee’s distribution of the Github SigSRF Software is subject to the following conditions:
+In consideration of the License, Licensee’s distribution of Github SigSRF Software is subject to the following conditions:
 
 <ol type="a">
-  <li>Licensee must cause any Github SigSRF Software modified by Licensee to carry prominent notices stating that Licensee modified the Github SigSRF Software.</li>
+  <li>Licensee must cause any Github SigSRF Software modified by Licensee to carry prominent notices stating that Licensee modified Github SigSRF Software.</li>
 
   <li>On each Github SigSRF Software copy, Licensee shall reproduce and not remove or alter all Signalogic or third party copyright or other proprietary notices 
-contained in the Github SigSRF Software, and Licensee must provide the notice below with each copy.</li>
+contained in Github SigSRF Software, and Licensee must provide the notice below with each copy.</li>
 </ol>
 
 “This software is made available by Signalogic, Inc., under the terms of the Signalogic Github SigSRF License Agreement, Version 1.0 located at 
-https://github.com/signalogic/SigSRF_SDK/blob/master/LICENSE.md. BY INSTALLING, DOWNLOADING, ACCESSING, USING OR DISTRIBUTING ANY OF THE GITHUB SIGSRF SOFTWARE, YOU 
+https://github.com/signalogic/SigSRF_SDK/blob/master/LICENSE.md. BY INSTALLING, DOWNLOADING, ACCESSING, USING OR DISTRIBUTING ANY OF GITHUB SIGSRF SOFTWARE, YOU 
 AGREE TO THE TERMS OF SUCH LICENSE AGREEMENT.”
 
 ### 1.4 Licensee Modifications
 
 Licensee may add its own copyright notices to modifications made by Licensee and may provide additional or different license terms and conditions for use, 
-reproduction, or distribution of Licensee’s modifications. While redistributing the Github SigSRF Software or modifications thereof, Licensee may choose to offer, for 
+reproduction, or distribution of Licensee’s modifications. While redistributing Github SigSRF Software or modifications thereof, Licensee may choose to offer, for 
 a fee or free of charge, support, warranty, indemnity, or other obligations. Licensee, and not Signalogic, will be responsible for any such obligations.
 
 ### 1.5 No Sublicensing
 
-The License does not include the right to sublicense the Github SigSRF Software, however, each recipient to which Licensee provides the Github SigSRF Software may 
+The License does not include the right to sublicense Github SigSRF Software, however, each recipient to which Licensee provides Github SigSRF Software may 
 exercise the Licenses so long as such recipient agrees to the terms and conditions of this Agreement.
 
 ## 2 TERM AND TERMINATION
@@ -75,14 +75,14 @@ this Agreement will terminate automatically and the License will terminate autom
 
 ## 3 INTELLECTUAL PROPERTY
 
-As between the parties, Signalogic will retain all right, title, and interest in the Github SigSRF Software, and all intellectual property rights therein. Signalogic 
+As between the parties, Signalogic will retain all right, title, and interest in Github SigSRF Software, and all intellectual property rights therein. Signalogic 
 hereby reserves all rights not expressly granted to Licensee in this Agreement. Signalogic hereby reserves all rights in its trademarks and service marks, and no 
 licenses therein are granted in this Agreement.
 
 ## 4 DISCLAIMER
 
 SIGNALOGIC HEREBY DISCLAIMS ANY AND ALL WARRANTIES AND CONDITIONS, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, AND SPECIFICALLY DISCLAIMS ANY WARRANTY OF 
-MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE GITHUB SIGSRF SOFTWARE.
+MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO GITHUB SIGSRF SOFTWARE.
 
 ## 5 LIMITATION OF LIABILITY
 
