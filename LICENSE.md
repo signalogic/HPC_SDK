@@ -24,7 +24,7 @@ Github SigSRF software also includes binary codes for shared object libraries us
 <ol type="a">
   <li>pktlib (packet library)</li>
   <li>voplib (voice-over-packet library)</li>
-  <li>codec libraries including EVS, AMR, and AMR-WB</li>
+  <li>codec libraries including EVS, AMR, and AMR-WB, AMR-WB-Plus, G729, G726, MELPe</li>
   <li>streamlib (stream group library)</li>
 </ol>
 
