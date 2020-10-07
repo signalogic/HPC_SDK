@@ -39,7 +39,7 @@ without limitation in source code or object code form); and (d) reproduce copies
 and Licensee shall not, exercise the License for an Excluded Purpose.
 
 For purposes of this Agreement, "Excluded Purpose" means making available any (i) server based platform, including but not limited to bare-metal, container, and VM, 
-or (ii) online service, including but not limited to software-as-a-service, platform-as-a-service, and infrastructure-as-a-service, that competes with Signalogic products or services based on SigSRF Software functionality.
+or (ii) online service, including but not limited to software-as-a-service, platform-as-a-service, and infrastructure-as-a-service, that competes with Signalogic products or services that incorporate SigSRF Software functionality.
 
 ### 1.3 Conditions
 
